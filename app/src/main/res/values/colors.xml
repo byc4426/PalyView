@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue">#ff3f86f5</color>
+    <color name="gray">#ff595959</color>
+    <color name="backgray">#1f000000</color>
+    <color name="volback">#7f000000</color>
+    <color name="green">#7f51f515</color>
+    <color name="volgray">#99707070</color><!--静音按钮-->
+    <color name="white">#ffffffff</color>
+
+</resources>
